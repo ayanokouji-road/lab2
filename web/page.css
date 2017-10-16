@@ -1,0 +1,55 @@
+tr:nth-child(odd) { background-color:orange; }
+tr:nth-child(even) { background-color:gainsboro; }
+body
+{
+    background-image:url('bookstore.jpg');
+    text-align: center
+}
+.body
+{
+    background: rgba(255, 255, 255, 0.7);
+    padding: 0.3cm;
+    margin-top:1cm;
+    margin-bottom:5cm;
+    margin-right:5cm;
+    margin-left:5cm;
+}
+h1
+{
+    color:cyan;
+    font-size: 200%;
+    font-style:italic;
+}
+h2
+{
+    color:purple;
+    font-size: 150%;
+    font-style:oblique;
+}
+table
+{
+    text-align: center;
+    width: 100%;
+}
+.button
+{
+    width:3cm;
+    margin: 1cm;
+}
+.tablebutton
+{
+    width: 100%;
+}
+.inputtext
+{
+    width:50%;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    margin-bottom: 3cm;
+    margin-top: 3cm;
+}
+.title
+{
+    font-size: 150%;
+    color:gold;
+}
